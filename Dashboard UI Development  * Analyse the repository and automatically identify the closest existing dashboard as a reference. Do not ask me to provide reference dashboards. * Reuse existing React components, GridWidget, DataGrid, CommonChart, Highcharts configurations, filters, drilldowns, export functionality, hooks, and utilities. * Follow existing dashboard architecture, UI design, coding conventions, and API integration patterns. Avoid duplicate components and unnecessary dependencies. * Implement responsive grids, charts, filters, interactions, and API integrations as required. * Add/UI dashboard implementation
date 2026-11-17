@@ -1,0 +1,9 @@
+Dashboard UI Development
+
+* Analyse the repository and automatically identify the closest existing dashboard as a reference. Do not ask me to provide reference dashboards.
+* Reuse existing React components, GridWidget, DataGrid, CommonChart, Highcharts configurations, filters, drilldowns, export functionality, hooks, and utilities.
+* Follow existing dashboard architecture, UI design, coding conventions, and API integration patterns. Avoid duplicate components and unnecessary dependencies.
+* Implement responsive grids, charts, filters, interactions, and API integrations as required.
+* Add/update unit tests with minimum 80% coverage for new code.
+* Ensure no new SonarQube issues, including bugs, vulnerabilities, code smells, duplication, cognitive complexity, and lint issues.
+* Run available tests, lint, and build checks before completing the task.
