@@ -1,0 +1,14 @@
+Implement this dashboard using BOTH playbooks:
+
+1. Dashboard UI Development
+2. Services & Pinot DB Development
+
+Execute both together. Automatically discover the best existing dashboard and service implementations as references. Reuse existing components, architecture, API patterns, and Pinot DB utilities.
+
+Implement the complete frontend and backend integration, including grids, charts, filters, APIs, and Pinot queries.
+
+Maintain minimum 80% test coverage for new code and ensure no new SonarQube issues.
+
+Run tests, lint, and build checks. Avoid duplicate code, unnecessary changes, and dependencies.
+
+Do not ask me to provide reference files if suitable examples already exist in the repository. Complete the implementation and provide a concise summary of changes and test results.
